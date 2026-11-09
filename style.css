@@ -5,7 +5,7 @@ html {
     padding: 1;
     height: 95%;
     /* The Font Family- Really important!! */
-    font-family: "Times New Roman", sans-serif;
+    font-family: "Times New Roman", Times, serif;
     box-sizing: border-box;
 }
 
